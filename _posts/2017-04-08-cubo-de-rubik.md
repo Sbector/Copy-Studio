@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Cubo de Rubik"
-date:   2017-04-25 23:04:54 -0500
+date:   2017-04-25
+hour: 23:04
 categories: jekyll update
 ---
 
